@@ -1,4 +1,6 @@
-# A Glimpse into LLM's Human-Level Reasoning Through the Lens of Used Car Dealerships
+# A Glimpse into LLM's Human-Level Reasoning
+
+## Used Car Dealerships
 
 
 In a world increasingly reliant on Artificial Intelligence, the testing of these systems' capabilities has become a subject of both intrigue and necessity. Among the myriad of tests, understanding a machine's ability to reason at a human level is particularly captivating. A recent endeavor into this domain presented an interesting scenario—utilizing the imagery of empty used car lots to examine the reasoning capabilities of a Language Model, specifically a Large Language Model (LLM).
