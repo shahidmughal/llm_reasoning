@@ -2,7 +2,7 @@
 
 ## Used Car Dealerships
 
-![Empty lot of a car dealership](shahidmughal_top_view_of_a_car_dealership.jpg "Empty lot of a car dealership")
+![Empty lot of a car dealership](shahidmughal_top_view_of_a_car_dealership_with_empty_lot.jpg "Empty lot of a car dealership")
 
 In a world increasingly reliant on Artificial Intelligence, the testing of these systems' capabilities has become a subject of both intrigue and necessity. Among the myriad of tests, understanding a machine's ability to reason at a human level is particularly captivating. A recent endeavor into this domain presented an interesting scenario—utilizing the imagery of empty used car lots to examine the reasoning capabilities of a Language Model, specifically a Large Language Model (LLM).
 
